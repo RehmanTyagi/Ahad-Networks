@@ -96,7 +96,8 @@ a{
 }
 
 .forgot-password{
-    text-align: right;
+    display: flex;
+    justify-content: right;
     margin: .5rem 0;
 }
 
