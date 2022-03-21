@@ -21,7 +21,7 @@ body {
   flex-direction: column;
   align-items: center;
   gap: 1.5rem;
-  height: 400px;
+  height: 300px;
   border-bottom-left-radius: 20%;
   border-bottom-right-radius: 20%;
 }
@@ -102,7 +102,7 @@ a {
 .forgot-password {
   display: flex;
   justify-content: right;
-  margin: 0.5rem 0;
+  margin: 1.5rem 0;
 }
 
 /* footer section */
